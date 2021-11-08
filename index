@@ -3,29 +3,9 @@
   </head>
 
   <body>
-
-    <div class="container">
-      <div class="header clearfix">
-        <nav>
-          <ul class="nav nav-pills float-right">
-            <li class="nav-item">
-              <a class="nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">About</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Contact</a>
-            </li>
-          </ul>
-        </nav>
-        <h3 class="text-muted">Proyek Wuxia</h3>
-      </div>
-
-      <div class="jumbotron">
         <h1 class="display-3">Wuxia Drama</h1>
         <p class="lead"><p class="lead" style="color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; text-align: start;"><b>Disini adalah tempat membagi review drama atau adaptasi drama yang bertemakan cerita silat atau <b>Wuxia</b>. Semua ulasan berdasarkan profesional keahlian pribadi semata.</b><div><b><br></b></div><div><b>Semua orang boleh berbagi review personal untuk drama adaptasi apapun, syaratnya cuma satu yaitu tentang wuxia atau cerita silat. Yang karya nya di publish ke blog, akan mendapatkan bayaran (berapa besar tergantung kualitas artikel review drama nya)</b></div></p></p>
-        <p><a class="btn btn-lg btn-success" href="#" role="button">Lanjut Baca</a></p>
+        <p><a class="btn btn-lg btn-success" href="https://www.cerita-silat.net" role="button">Lanjut Baca</a></p>
       </div>
 
       <div class="row marketing">
@@ -53,11 +33,8 @@
       </div>
 
       <footer class="footer">
-        <p>© Company 2017</p>
+        <p>© Wuxia Indonesia 2021</p>
       </footer>
-
-    </div> <!-- /container -->
-  
 
 </body>
 </html>
